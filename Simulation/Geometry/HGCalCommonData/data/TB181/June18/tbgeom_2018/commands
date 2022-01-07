@@ -1,0 +1,3 @@
+root -l -b
+.L calcThickness.C+
+calcThickness("mat_EE.list")

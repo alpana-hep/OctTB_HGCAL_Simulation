@@ -1,0 +1,101 @@
+Mat Thick(mm)
+Fe   10
+Air  1
+Cu   6
+Cu   1.2
+Kapt 0.01
+Si   0.3
+PCB  1.6
+
+Air  9.32
+Fe   40 
+Air  0 
+Cu   6
+Cu   1.2
+Kapt 0.01
+Si   0.3
+PCB  1.6
+ 
+Air  10.6
+Fe   40
+Air  2
+Cu   6
+Cu   1.2
+Kapt 0.01
+Si   0.3
+PCB  1.6
+
+Air  6.7
+Fe   40
+Air  0
+Cu   6
+Cu   1.2
+Kapt 0.01
+Si   0.3
+PCB  1.6
+
+Air  10.24
+Fe   40
+Air  3
+Cu   6
+Cu   1.2
+Kapt 0.01
+Si   0.3
+PCB  1.6
+
+Air  10.6
+Fe   40
+Air  0
+Cu   6
+Cu   1.2
+Kapt 0.01
+Si   0.3
+PCB  1.6
+
+Air  8.6
+Fe   10
+Air  61 
+Fe   10
+Fe   40
+
+Air 1
+Cu   6
+Cu   1.2
+Kapt 0.01
+Si   0.3
+PCB  1.6
+
+Air  13.6
+Fe   40
+Air  0
+Cu   6
+Cu   1.2
+Kapt 0.01
+Si   0.3
+PCB  1.6
+
+Air  10.6
+Fe   40
+Air  0
+Cu   6
+Cu   1.2
+Kapt 0.01
+Si   0.3
+PCB  1.6
+
+Air  10.6
+Fe   40
+Air  1
+Cu   6
+Cu   1.2
+Kapt 0.01
+Si   0.3
+PCB  1.6
+
+
+Air  22.6
+Fe   40
+Air  18
+Fe   40
+Air  18
+Fe   10

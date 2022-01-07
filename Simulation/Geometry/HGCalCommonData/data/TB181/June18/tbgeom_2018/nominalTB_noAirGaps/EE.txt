@@ -1,0 +1,261 @@
+Mat    Thick(mm)
+I
+Al     2.1        8          0
+Fe     0.3        4          0 
+Pb     4.9        5          0
+Fe     0.3        4          0
+PCB    1.6        0          2
+Si     0.1        7          1
+Si     0.1        7          1
+Si     0.1        7          1
+Kapton   0.01       1        3 
+CuW    1.2        2          4
+Cu     6          6          0
+CuW    1.2        2          4
+Kapton   0.01       1        3
+Si     0.1        7          1
+Si     0.1        7          1
+Si     0.1        7          1
+PCB    1.6        0          2
+
+II
+Fe     0.3        4          0
+Pb     4.9        5          0
+Fe     0.3        4          0
+PCB    1.6        0          2
+Si     0.1        7          1
+Si     0.1        7          1
+Si     0.1        7          1
+Kapton   0.01       1        3
+CuW    1.2        2          4
+Cu     6          6          0 
+CuW    1.2        2          4
+Kapton   0.01       1        3 
+Si     0.1        7          1
+Si     0.1        7          1
+Si     0.1        7          1
+PCB    1.6        0          2
+
+III
+Fe     0.3        4         0
+Pb     4.9        5         0
+Fe     0.3        4         0
+PCB    1.6        0         2 
+Si     0.1        7         1
+Si     0.1        7         1
+Si     0.1        7         1
+Kapton   0.01     1         3
+CuW    1.2        2         4
+Cu     6          6         0
+CuW    1.2        2         4
+Kapton   0.01     1         3
+Si     0.1        7         1
+Si     0.1        7         1
+Si     0.1        7         1
+PCB    1.6        0         2
+
+IV
+Fe     0.3        4         0
+Pb     4.9        5         0
+Fe     0.3        4         0
+PCB    1.6        0         2
+Si     0.1        7         1 
+Si     0.1        7         1 
+Si     0.1        7         1
+Kapton   0.01     1         3
+CuW    1.2        2         4
+Cu     6          6         0
+CuW    1.2        2         4
+Kapton   0.01     1         3
+Si     0.1        7         1
+Si     0.1        7         1
+Si     0.1        7         1
+PCB    1.6        0         2
+
+V
+Fe     0.3        4         0
+Pb     4.9        5         0
+Fe     0.3        4         0
+PCB    1.6        0         2
+Si     0.1        7         1
+Si     0.1        7         1
+Si     0.1        7         1
+Kapton   0.01     1         3
+CuW    1.2        2         4
+Cu     6          6         0
+CuW    1.2        2         4
+Kapton   0.01     1         3 
+Si     0.1        7         1
+Si     0.1        7         1
+Si     0.1        7         1
+PCB    1.6        0         2
+
+VI
+Fe     0.3        4        0
+Pb     4.9        5        0 
+Fe     0.3        4        0 
+PCB    1.6        0        2
+Si     0.1        7        1
+Si     0.1        7        1
+Si     0.1        7        1 
+Kapton   0.01     1        3
+CuW    1.2        2        4
+Cu     6          6        0 
+CuW    1.2        2        4
+Kapton   0.01     1        3
+Si     0.1        7        1
+Si     0.1        7        1 
+Si     0.1        7        1
+PCB    1.6        0        2
+
+
+VII
+Fe     0.3        4        0
+Pb     4.9        5        0
+Fe     0.3        4        0
+PCB    1.6        0        2
+Si     0.1        7        1
+Si     0.1        7        1
+Si     0.1        7        1
+Kapton   0.01     1        3
+CuW    1.2        2        4
+Cu     6          6        0 
+CuW    1.2        2        4
+Kapton   0.01     1        3
+Si     0.1        7        1  
+Si     0.1        7        1
+Si     0.1        7        1 
+PCB    1.6        0        2
+
+VIII(CuW+Cu)
+Fe     0.3        4        0
+Pb     4.9        5        0
+Fe     0.3        4        0
+PCB    1.6        0        2
+Si     0.1        7        1
+Si     0.1        7        1
+Si     0.1        7        1
+Kapton   0.01     1        3
+Cu     1.2        3        5
+CuW    1.2        2        4
+Cu     6          6        0
+CuW    1.2        2        4
+Cu     1.2        3        5
+Kapton   0.01     1        3
+Si     0.1        7        1
+Si     0.1        7        1
+Si     0.1        7        1
+PCB    1.6        0        2
+
+IX
+Fe     0.3        4        0
+Pb     4.9        5        0
+Fe     0.3        4        0
+PCB    1.6        0        2
+Si     0.1        7        1
+Si     0.1        7        1 
+Si     0.1        7        1
+Kapton   0.01     1        3
+CuW    1.2        2        4
+Cu     6          6        0 
+CuW    1.2        2        4
+Kapton   0.01     1        3
+Si     0.1        7        1 
+Si     0.1        7        1
+Si     0.1        7        1
+PCB    1.6        0        2
+
+X(CuW+Cu)
+Fe     0.3        4        0
+Pb     4.9        5        0
+Fe     0.3        4        0
+PCB    1.6        0        2
+Si     0.1        7        1
+Si     0.1        7        1
+Si     0.1        7        1
+Kapton   0.01     1        3
+Cu     1.2        3        5
+CuW    1.2        2        4
+Cu     6          6        0
+CuW    1.2        2        4
+Cu     1.2        3        5
+Kapton   0.01     1        3
+Si     0.1        7        1
+Si     0.1        7        1
+Si     0.1        7        1  
+PCB    1.6        0        2
+
+XI
+Fe     0.3        4        0 
+Pb     4.9        5        0
+Fe     0.3        4        0
+PCB    1.6        0        2
+Si     0.1        7        1
+Si     0.1        7        1
+Si     0.1        7        1  
+Kapton   0.01     1        3
+CuW    1.2        2        4
+Cu     6          6        0
+CuW    1.2        2        4
+Kapton   0.01     1        3
+Si     0.1        7        1
+Si     0.1        7        1
+Si     0.1        7        1
+PCB    1.6        0        2
+
+XII(CuW+Cu - faced by beam first, then Cu)
+Fe     0.3        4        0 
+Pb     4.9        5        0
+Fe     0.3        4        0
+PCB    1.6        0        2
+Si     0.1        7        1
+Si     0.1        7        1
+Si     0.1        7        1
+Kapton   0.01     1        3
+Cu     1.2        3        5
+CuW    1.2        2        4 
+Cu     6          6        0
+CuW    1.2        2        4
+Kapton   0.01     1        3
+Si     0.1        7        1
+Si     0.1        7        1
+Si     0.1        7        1
+PCB    1.6        0        2
+
+XIII
+Fe     0.3        4        0
+Pb     4.9        5        0
+Fe     0.3        4        0
+PCB    1.6        0        2
+Si     0.1        7        1
+Si     0.1        7        1
+Si     0.1        7        1
+Kapton   0.01     1        3
+CuW    1.2        2        4
+Cu     6          6        0
+CuW    1.2        2        4
+Kapton   0.01     1        3
+Si     0.1        7        1
+Si     0.1        7        1 
+Si     0.1        7        1
+PCB    1.6        0        2
+
+XIV
+Fe     0.3        4        0 
+Pb     4.9        5        0
+Fe     0.3        4        0
+PCB    1.6        0        2
+Si     0.1        7        1
+Si     0.1        7        1
+Si     0.1        7        1
+Kapton   0.01     1        3
+CuW    1.2        2        4
+Cu     6          6        0
+CuW    1.2        2        4
+Kapton   0.01     1        3
+Si     0.1        7        1
+Si     0.1        7        1
+Si     0.1        7        1 
+PCB    1.6        0        2
+    
+Al     2.1       8         0

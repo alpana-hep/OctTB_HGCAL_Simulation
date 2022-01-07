@@ -1,0 +1,37 @@
+Mat Thick(mm)
+Fe   40
+Cu   6
+Cu   1.2
+Kapt 0.01
+Si   0.3
+PCB  1.6
+
+Air  20
+Fe   40
+Fe   40
+Fe   40
+Cu   6
+Cu   1.2
+Kapt 0.01
+Si   0.3
+PCB  1.6
+
+Air  20
+Fe   40
+Fe   40
+Fe   40
+Cu   6
+Cu   1.2
+Kapt 0.01
+Si   0.3
+PCB  1.6
+
+Air  20
+Fe   40
+Fe   40
+Fe   40
+Cu   6
+Cu   1.2
+Kapt 0.01
+Si   0.3
+PCB  1.6

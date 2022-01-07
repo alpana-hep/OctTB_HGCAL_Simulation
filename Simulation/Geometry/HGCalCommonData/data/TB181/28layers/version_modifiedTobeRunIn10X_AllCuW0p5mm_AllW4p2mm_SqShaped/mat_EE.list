@@ -1,0 +1,67 @@
+0 Carbon_fibre_str_Upgrade2  0.5mm
+1 Tungsten                   2mm    
+2 Tungsten                   2.8mm
+3 Tungsten                   4.2mm
+4 WCu                        0.6mm
+5 WCu                        1.2mm
+6 WCu                        2.2mm  
+7 Copper                     0.5mm   
+8 Copper                     6mm
+9 Si                         0.1mm
+10 G10                       0.5mm
+11 M_NEMA FR4 plate          0.5mm 
+12 Kapton                    0.01mm
+13 Air                       1mm
+14 Graph.Epoxy Sup           0.5mm
+15 G10                       0.5mm
+16 Air                       6mm 
+
+
+W Air Nema Air G10 Si 
+Kap WCu Cu WCu Kap Si G10 Air Nema
+
+
+===================================================================
+
+0 Carbon_fibre_str_Upgrade2  0.5mm                   0
+1 Lead                       3mm                     0
+2 Lead                       3mm                     0
+3 Lead                       3mm                     0 
+4 Air WCu                    1.2mm                   4
+5 WCu                        1.2mm                   0
+6 WCu                        1.2mm                   0 
+7 Copper                     0.5mm                   0   
+8 Copper                     6mm                     0
+9 Air Si                     0.1mm                   1
+10 Air G10                   1.5mm                   2   
+11 M_NEMA FR4 plate          0.5mm                   0
+12 Air Kapton                0.01mm                  3
+13 Air                       1mm                     0
+14 Graph.Epoxy Sup           0.5mm                   0
+15 G10                       1.5mm                   0 
+16 Air                       4mm                     0
+
+
+=================================================================
+
+0 Carbon_fibre_str_Upgrade2  0.5mm                   0
+1 Tungsten                   4.2mm                     0
+2 Lead                       4.2mm                     0
+3 Lead                       4.2mm                     0 
+4 Air WCu                    1.2mm                   4
+5 WCu                        1.2mm                   0
+6 WCu                        1.2mm                   0 
+7 Copper                     0.5mm                   0   
+8 Copper                     6mm                     0
+9 Air Si                     0.1mm                   1
+10 Air G10                   0.5mm                   2   
+11 M_NEMA FR4 plate          0.5mm                   0
+12 Air Kapton                0.01mm                  3
+13 Air                       1mm                     0
+14 Graph.Epoxy Sup           0.5mm                   0
+15 G10                       0.5mm                   0 
+16 Air                       6mm                     0
+
+
+W Air1mm Nema Air6 AirG10 Si Si Si AirKapton AirCuW Cu AirCuW AirKap Si Si Si AirG10 Air6 Nema
+0 0        0    0    2    1   1  1   3        4     0    4     3      1  1  1  2     0    0 

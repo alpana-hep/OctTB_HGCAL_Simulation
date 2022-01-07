@@ -1,0 +1,92 @@
+Mat    Thick(mm)    
+Al(?)  2.6
+Air    150.6
+PCB    1.6
+Si     0.3
+Kapt   0.01
+CuW    1.2
+Cu     6
+Air    176.6
+
+Fe     0.3
+Pb     4.9
+Fe     0.3
+Cu      6
+
+Fe     0.3
+Pb     4.9
+Fe     0.3
+Cu      6
+
+Fe     0.3
+Pb     4.9
+Fe     0.3
+Cu      6
+
+Fe     0.3
+Pb     4.9
+Fe     0.3
+Cu      6
+CuW    1.2
+Kapt   0.01
+Si     0.3
+PCB    1.6
+
+Air     5.28
+
+Fe     0.3
+Pb     4.9
+Fe     0.3
+Cu      6
+
+Fe     0.3
+Pb     4.9
+Fe     0.3
+Cu      6
+
+Fe     0.3
+Pb     4.9
+Fe     0.3
+Cu      6
+
+Fe     0.3
+Pb     4.9
+Fe     0.3
+Cu      6
+
+Fe     0.3
+Pb     4.9
+Fe     0.3
+Cu      6
+
+Fe     0.3
+Pb     4.9
+Fe     0.3
+Cu      6
+
+Fe     0.3
+Pb     4.9
+Fe     0.3
+Cu      6
+
+Fe     0.3
+Pb     4.9
+Fe     0.3
+
+Air    15.6
+
+Cu      6
+Fe     0.3
+Pb     4.9
+Fe     0.3
+
+Cu      6
+Fe     0.3
+Pb     4.9
+Fe     0.3
+
+Cu      6
+
+Air     85
+
+Al(?)   2.6
