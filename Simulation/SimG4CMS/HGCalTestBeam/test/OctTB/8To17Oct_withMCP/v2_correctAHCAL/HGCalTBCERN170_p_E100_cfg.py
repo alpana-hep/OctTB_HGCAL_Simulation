@@ -23,7 +23,7 @@ process.load('SimG4CMS.HGCalTestBeam.HGCalTBCheckGunPosition_cfi')
 process.load('SimG4CMS.HGCalTestBeam.HGCalTBAnalyzer_cfi')
 
 process.maxEvents = cms.untracked.PSet(
-        input = cms.untracked.int32(100)
+    input = cms.untracked.int32(10)
 )
 
 #if 'MessageLogger' in process.__dict__:
@@ -113,7 +113,6 @@ process.g4SimHits.Watchers = cms.VPSet(cms.PSet(
 			#LVNames = cms.vstring('HGCalEE','HGCalHE','HGCalAH', 'CMSE'),
 			LVNames = cms.vstring('HGCalEE','HGCalHE', 'HGCalBeam', 'HGCalAH', 'CMSE'),
 			MotherName = cms.string('CMSE'),
-                        SaveInFile = cms.untracked.string('HadronicInteraction.root')
 			),
 		type = cms.string('HGCPassive'),
 		)
