@@ -18,4 +18,4 @@ cmsenv
 export PYTHONPATH=<path to GenSimOctober2018_ProtoWorkflow>:$PYTHONPATH
 pip install --user luigi   // to install needed luigi packages
 
-// You should change the path of simulated samples in the simulateSamples.py file 
+// You should change the path of simulated samples in the simulateSamples.py file
